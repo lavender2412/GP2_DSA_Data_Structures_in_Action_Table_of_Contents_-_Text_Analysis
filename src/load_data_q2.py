@@ -73,7 +73,8 @@ print(f"Total lines: {len(raw_text.splitlines()):,}")
 print(f"File size: {len(raw_text.encode('utf-8')) / 1024:.2f} KB")
 print("="*60)
 
-!pip install wordcloud pandas matplotlib
+#!pip install wordcloud pandas matplotlib 
+# added these packages in the requirements.txt file
 
 import os
 from pathlib import Path
