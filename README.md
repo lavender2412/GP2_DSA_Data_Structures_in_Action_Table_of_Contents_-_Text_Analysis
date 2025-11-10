@@ -1,1 +1,4 @@
-# GP2_DSA_Data_Structures_in_Action_Table_of_Contents_-_Text_Analysis
+Q1. Build a Table of Contents (Tree)
+
+
+Q2.  Letters & Words Analysis (No NLP Libraries)
