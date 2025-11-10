@@ -15,7 +15,7 @@ def test_toc_building():
     assert book.tree_height() > 0
     assert book.tree_depth("Parkinson’s Disease") >= 0
 
-    print("✅ All tests passed.")
+    print("All test cases are passed.")
 
 if __name__ == "__main__":
     test_toc_building()
