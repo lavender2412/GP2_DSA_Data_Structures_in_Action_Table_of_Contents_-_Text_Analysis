@@ -15,7 +15,7 @@ https://github.com/lavender2412/GP2_DSA_Data_Structures_in_Action_Table_of_Conte
 **Objectives:**
 
 (1) Implement tree data structures and relevant methods to store, traverse, and organize a table of contents from a technical textbook.  
-(2)Preprocess and analyze a public domain novel to investigate letter/word frequencies, bigrams/trigrams, and a variety of sentence structure metrics.
+(2) Preprocess and analyze a public domain novel to investigate letter/word frequencies, bigrams/trigrams, and a variety of sentence structure metrics.
 
 **Datasets:**
 
