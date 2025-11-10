@@ -1,4 +1,3 @@
-# GP2_DSA_Data_Structures_in_Action_Table_of_Contents_-_Text_Analysis
 # Data-Structures-and-Algorithms-Group-Project-2
 # About Project
 **Group No: 8**
