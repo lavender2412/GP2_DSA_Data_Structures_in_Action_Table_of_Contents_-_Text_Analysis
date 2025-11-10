@@ -37,18 +37,6 @@ class Node:
         for val in arr:
             self.insert_section(val[0], val[1], val[2])
 
-
-    def display_TOC(self, book):
-        if book is None:
-            return
-        queue = []
-        queue.append(book)
-        while len(queue) > 0:
-            print(queue[0].book, queue[0].section, queue[0].title, queue[0].page)
-            cur_section = queue.pop(0)
-            for element in cur_section.children:
-                queue.append(element)
-
     def print_toc(self, mode):
       # will store the values in list instead of printing them all
         lines = []
