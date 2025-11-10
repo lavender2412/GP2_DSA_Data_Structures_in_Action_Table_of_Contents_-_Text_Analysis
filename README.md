@@ -1,17 +1,28 @@
-# Data-Structures-and-Algorithms-Group-Project-2
-# About Project
-**Group No: 8**
+**Group Number:**
 
-**Group Members: Andrea Caceres, Sam Goodell, Chushmitha Battula, Samanwita Mukherjee**
+8
 
-**Project Name: Data Structures in Action Table of Contents & Text Analysis**
+**Group Members:**  
 
-**Github Repo link**:  https://github.com/organiccaprisunn/Data-Structures-and-Algorithms-Group-Project-2/tree/main
+Samanwita Mukherjee, Andrea Caceres, Chushmitha Battula, Sam Goodell
 
-**Objective**: Analyze large text datasets using efficient counting and aggregation strategies.
+**Github Repo:**
 
-# Team roles:
+https://github.com/lavender2412/GP2_DSA_Data_Structures_in_Action_Table_of_Contents_-_Text_Analysis.git
 
-This project consists of two questions. Question 1 consists of creating a hierarchical Table of Contents from Data Science and Predictive Analytics by Ivo D. Dinov. Question 2 consists of conducting an analysis of Wuthering Heights by Emily Bronte by preprocessing the text and implementing different text analysis. Andrea Caceres and Samanwita finished the code by working individually then during a meeting, combining their code together. 
+**Objectives:**
 
-Sam Goodell navigated planning zoom calls by finding times that worked for the group. Andrea Caceres created a group chat with everyone in order to easily discuss logistics. 
+(1) Implement tree data structures and relevant methods to store, traverse, and organize a table of contents from a technical textbook.  
+(2)Preprocess and analyze a public domain novel to investigate letter/word frequencies, bigrams/trigrams, and a variety of sentence structure metrics.
+
+**Datasets:**
+
+Question 1: Data Science and Predictive Analytics (2018) by Ivo D. Dinov (Table of Contents)
+
+Question 2: Wuthering Heights (1847) by Emily Bronte
+
+**Team Roles:**
+
+Question 1 leads: Sam Goodell and Chushmitha Battula
+
+Question 2 leads: Andrea Caceres and Samanwita Mukherjee
