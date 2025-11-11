@@ -3,3 +3,10 @@ wordcloud
 pandas
 matplotlib
 nltk
+requests
+re
+numpy
+itertools
+collections import Counter
+nltk.corpus import stopwords
+nltk
